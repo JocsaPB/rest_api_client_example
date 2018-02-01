@@ -1,0 +1,5 @@
+Mysql
+
+porta: 3306
+senha: 123456
+windows service name: MySQL57
